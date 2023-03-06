@@ -4,4 +4,4 @@ This repo contains scripts that I have made for public use on Black Ops 2 Zombie
 
 Below will be a brief description to explain each script and how to use it if required.
 
-• boxhitcounter.gsc - When you spawn, a HUD element is created which tracks the total number of box hits in the current game.
+•  boxhitcounter.gsc - When you spawn, a HUD element is created which tracks the total number of box hits in the current game.
